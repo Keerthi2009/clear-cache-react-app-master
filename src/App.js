@@ -10,7 +10,6 @@ const ClearCacheComponent = withClearCache(MainApp);
 function App() {
   return <ClearCacheComponent />;
 }
-console.log(ClearCacheComponent);
 function MainApp(props) {
   return (
     <div className="App">

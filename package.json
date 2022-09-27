@@ -1,7 +1,7 @@
 {
   "name": "clear-cache-app",
   "version": "0.1.0",
-  "homepage": "https://Keerthi2009.github.io/react-gh-pages",
+  "homepage": "https://keerthi2009.github.io/clear-cache-react-app-master/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -35,7 +35,7 @@
       "last 1 safari version"
     ]
   },
-  "buildDate": 1664296071967,
+  "buildDate": 1664299907156,
   "devDependencies": {
     "gh-pages": "^4.0.0"
   }

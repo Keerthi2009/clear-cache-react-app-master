@@ -21,6 +21,7 @@ function withClearCache(Component) {
       fetch("/meta.json")
         .then((response) => response.json())
         .then((meta) => {
+          console.log(meta);
           const latestVersionDate = meta.buildDate;
           const currentVersionDate = packageJson.buildDate;
 
